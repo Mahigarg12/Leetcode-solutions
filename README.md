@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Dynamic Programming
@@ -29,9 +30,14 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
