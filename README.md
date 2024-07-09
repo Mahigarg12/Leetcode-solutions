@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1677-matrix-diagonal-sum](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mahigarg12/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
